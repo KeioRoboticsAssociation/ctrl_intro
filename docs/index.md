@@ -28,7 +28,7 @@
 2022 年度講習会で使用した**C++だけの入門テキスト群**です。
 かなりわかりやすいので、C++の基礎についての参照用にぜひ使ってください。<br>
 
-[こちらのリンクから](https://hirobon1690.github.io/intro-to-cpp/) <br>
+[こちらのリンクから](https://keioroboticsassociation.github.io/intro-to-cpp/) <br>
 記事作成者：@hirobon1690
 
 ## C++プラスアルファ
